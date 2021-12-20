@@ -47,6 +47,7 @@ body {
 
 .region-map {
     border-top: 2px solid rgb(124, 181, 236);
+    border-bottom: 2px solid rgb(124, 181, 236);
 }
 
 .wrapper {
